@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Using external stylesheets</title>
+        <style>
+        body {
+            background: rgb(215, 250, 220);
+            font-family: sans-serif;
+        }
+        
+        .header {
+            background-color: rgb(34, 86, 39);
+            color: white;
+            padding: 5px 10px;
+        }
+        
+        .footer {
+            background-color: rgb(187, 225, 189);
+            padding: 6px;
+            clear: both;
+        }
+        
+        #hopper-pic {
+            width: 110px;
+            float: left;
+            margin-right: 7px;
+            margin-bottom: 5px;
+            
+        }
+        
+        #hopper-links {
+            float: right;
+            width: 30%;
+            margin-left: 10px;
+        }
+        </style>
+    </head>
+    <body>
+    </html>
